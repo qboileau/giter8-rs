@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Quentin Boileau <quentin.boileau@gmail.com>"]
 
 [dependencies]
+git2 = "0.7.5"
